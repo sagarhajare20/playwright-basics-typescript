@@ -94,3 +94,8 @@ The goal of this project is to build a strong Playwright foundation before movin
 ## Progress
 
 This repository will be updated regularly as new Playwright concepts are learned and implemented.
+
+## Completed Topics
+- [x] Playwright setup
+- [x] First test
+- [x] Locators
